@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AmoCRMtask01/static/css/main.60172be0.css",
+    "main.js": "/AmoCRMtask01/static/js/main.e8377fee.js",
+    "static/media/png": "/AmoCRMtask01/static/media/36032deebad5e588140d4b0e98d046c1.189003e73386caa23300.png",
+    "static/media/part2.svg": "/AmoCRMtask01/static/media/part2.7fef61eda0ac7eaaa82bc83761b475f3.svg",
+    "static/media/whatsapp.svg": "/AmoCRMtask01/static/media/whatsapp.ebe720f0c912eda28e2bf0613c18300f.svg",
+    "static/media/viber.svg": "/AmoCRMtask01/static/media/viber.efdbe6bd3950a854df10750809a40828.svg",
+    "static/media/part1.svg": "/AmoCRMtask01/static/media/part1.b823dbdeb1fce1c504c80f87459e8cce.svg",
+    "index.html": "/AmoCRMtask01/index.html",
+    "static/media/telegram.svg": "/AmoCRMtask01/static/media/telegram.40ecd015eebebbe71b5bd0354d54208e.svg",
+    "main.60172be0.css.map": "/AmoCRMtask01/static/css/main.60172be0.css.map",
+    "main.e8377fee.js.map": "/AmoCRMtask01/static/js/main.e8377fee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60172be0.css",
+    "static/js/main.e8377fee.js"
+  ]
+}
